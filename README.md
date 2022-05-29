@@ -18,3 +18,9 @@ Below process shows the flow of our Selective Style Transfer and contains expect
 
 ![Project Process](ProjectProcess.png)
 
+## Project Code
+You can check the [code](Final.ipynb)
+
+## Project Result
+The result image located in [result](/Results)
+Also you can chen our [survey and its result](/Survey)
