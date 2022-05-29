@@ -5,7 +5,7 @@ This repository contains AI project I did in 2019.
 ## Motivation
 Normally, style transfer is conducted with the whole picture like the below example.
 
-<img src = "https://drive.google.com/uc?id=1_VLsfBBu7ZG2vhsNtel3BHyaWWntuQNj">
+[Style Transfer](StyleTransfer.png)
 
 If you give an input image and a style image, you can get an output image with the input style. We just wonder about would it be possible to change a specific object of the picture to another style? To get the specific part of the picture, we are going to use Semantic Segmentation. 
 
