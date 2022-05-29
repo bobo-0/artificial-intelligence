@@ -9,7 +9,7 @@ Normally, style transfer is conducted with the whole picture like the below exam
 
 If you give an input image and a style image, you can get an output image with the input style. We just wonder about would it be possible to change a specific object of the picture to another style? To get the specific part of the picture, we are going to use Semantic Segmentation. 
 
-![Sementic Segmentation](SemanticSegmentation.png.png)
+![Sementic Segmentation](SemanticSegmentation.png)
 
 First, we need to find out the output of semantic segmentation and the input of style transfer. In order to change specific part of the picture, the output of semantic segmentation and input of style transfer format have to be same. Therefore, we are going to find each format of output and input and preprocess the output to match with the input. Finally, we can get a selectively style-transferred picture.
 
